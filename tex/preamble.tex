@@ -1,0 +1,136 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Variables
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\bookTitle}{Transinformalizing Humanity}
+\newcommand{\bookAuthor}{Jacob Forrester Valdez \textbullet\ Julien Garrett Arpin \textbullet\ chatGPT}
+\newcommand{\bookPublisher}{}
+\newcommand{\bookYear}{2023}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% specify the document class 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[10pt,a4paper]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Packages: After specifying the document class, you can include any necessary packages in the preamble. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{lipsum} % For dummy text
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{eso-pic}
+\usepackage{marginnote}
+\usepackage{mathrsfs} % For better calligraphic symbols
+\usepackage{todonotes} % For notes in the margin
+\usepackage{xcolor} % Needed for \colorbox
+\usepackage{xparse}
+\usepackage{etoolbox}
+\usepackage{framed}
+\usepackage{boondox-cal} % for lowercase caligraphic (use the \mathscr)
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Custom Commands and Settings: Define any custom commands, settings, or macros that you want to use throughout your document.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\NewDocumentCommand{\backgroundpic}{O{height} m}{%
+    \AddToShipoutPictureBG*{%
+        \AtPageLowerLeft{%
+            \ifstrequal{#1}{width}{% Fit to width
+                \raisebox{\dimexpr.5\paperheight-.5\height\relax}{%
+                    \includegraphics[keepaspectratio,width=\paperwidth]{#2}
+                }
+            }{% Default: Fit to height
+                \raisebox{\dimexpr.5\paperheight-.5\height\relax}{%
+                    \makebox[\paperwidth]{\includegraphics[keepaspectratio,height=\paperheight]{#2}}% Center horizontally
+                }
+            }
+        }
+    }
+}
+
+\newcommand{\bigprod}[2]{\prod_{#1}^{#2}}
+
+% \newcommand{\example}{%
+%     \[ \bigprod{i=1}{n} x_i \]
+% }
+
+
+\newcommand{\rf}[2]{\left\langle #1 \right\rangle_{\substack{#2}}}
+
+\newcommand{\definition}[2]{%
+    \textbf{#1}\todo[noline, color=none, bordercolor=none, size=\small]{\colorbox{gray!30}{\textbf{#1}}: #2}%
+}
+
+\newenvironment{centeredpage}{%
+    \newgeometry{margin=1in} % Start with centered margins
+}{%
+    \restoregeometry % Restore original margins at the end
+}
+
+\newenvironment{PartPage}[2][defaultbg.png]{% Begin environment code
+    \newpage
+    \backgroundpic{#1}
+    \vspace*{\fill} % Distribute vertical space evenly before the content
+    \begin{center}
+        {\Huge\bfseries #2} % Enclose title within curly braces to limit the effect of \Huge
+        \addcontentsline{toc}{part}{#2} % Add the part title to the ToC
+        \vspace*{0.1cm} % Adjust this value to control the space between the title and the grey line
+        \rule{\textwidth}{0.4pt} % A thin grey line
+        \setcounter{chapter}{1} % This sets the next chapter to be Chapter 1
+
+}{% End environment code
+    \end{center}
+    \vspace*{\fill} % Distribute vertical space evenly after the content
+    \ClearShipoutPictureBG
+}
+
+\definecolor{shadecolor}{gray}{0.9} % Light gray color
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document Configuration: Finally, configure the document style in the preamble. This includes settings for fonts, margins, page layout, headers, footers, and any other stylistic elements.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Import style packages, if any
+
+% Page Layout
+% Page Layout with increased margins
+\geometry{
+    a4paper, 
+    margin=1in, 
+    inner=1.5in, % increased inner margin (next to the spine of the book)
+    outer=2.5in, % increased outer margin (for margin notes)
+    marginparwidth=1.8in, % width of the margin notes
+    twoside % alternating left and right pages
+  }
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{\rightmark}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Depth of table of contents 
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={\bookTitle},
+    bookmarks=true,
+}

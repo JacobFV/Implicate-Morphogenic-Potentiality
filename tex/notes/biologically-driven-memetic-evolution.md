@@ -1,0 +1,8 @@
+- memetic evolution spawns from the substrate the brain provides
+- memes becomes increasingly abstract as culture does individualistic
+- religion is an expression of memes
+  - sexual expression becomes less important with history
+    - sex symbols of past worship implicitly recognized the objective of evolution
+    - 
+  - abstract rites become more important
+    - buddhism, greek philosophy, christianity more inner truth seeking ideologies

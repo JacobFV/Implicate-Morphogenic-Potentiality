@@ -1,0 +1,95 @@
+\section{Existance preceeds essence}
+
+We must begin with \definition{existence}{An object $q$ is said to \textbf{exist} when it is acknowledged as a member of the universal set, denoted as $q \in \mathcal{U}$ footnote: {The universe, denoted by $\mathcal{U}$, is conceived as the dynamic aggregate of all classes. For a deeper insight into why $\mathcal{U} \in \mathcal{U}$, refer to  CITE{langan CTMU paper}.}} since no \definition{phenomenon}{A phenomenon refers to an \textbf{observable} attribute (as observed by some observer $q_{self}$), denoted as $o \in \mathcal{O} \subset \mathcal{U}$} can manifest in its absence. This assertion borders on the tautological, as the essence of a phenomenon (juxtaposed against a \definition{noumenon}{A noumenon denotes an attribute in itself $s \in \mathcal{S} \subset \mathcal{U}$ CITE{Webster's dictionary entry}, independant of perception}) lies in the demarcation between the perceptible and the concealed CITE{Kant's critique of pure reason distinguishing phenomenon from noumenon}. Uniquely, existance w.r.t. the self is both $q_{self} \in \mathcal{O}, \mathcal{S}$.
+
+A direct implication of this introspection is the delineation between self $q_{self} = \mathcal{Q}_{self} \subset \mathcal{U}$ and non-self $\mathcal{Q}_{other} = \mathcal{U} \setminus q_{self}$, inner and outer dynamics $p(o' \mid o)$ and $p(s' \mid s)$, and latent estimators from either side $\rf{p(o' \mid s', 0)}{\mathcal{Q}_{other}}$, $\rf{p(s' \mid o', s)}{\mathcal{Q}_{self}}$. Of course, we cannot directly know $p(s' \mid s)$ or the estimators it implicates, but marginalizing and iterating from our perspective, we can derive the parially observable Markov process:
+
+\[
+\begin{aligned}
+    &\rf{p(s_t \mid s_0, o_t, \dots, o_0)}{\mathcal{Q}_{\text{self}}} \\
+    &\quad = \int_{\mathcal{S}} \dots \int_{\mathcal{S}} 
+        \rf{p(s_t, \dots, s_1 \mid s_0, o_t, \dots, o_0)}{\mathcal{Q}_{\text{self}}} \
+        ds_1 \dots ds_{t-1} \\
+    &\quad = \int_{\mathcal{S}} \dots \int_{\mathcal{S}} 
+        \bigprod{\tau=1}{t} 
+            \rf{p(s_{\tau} \mid s_{\tau-1}, \dots, s_0, o_{\tau}, \dots, o_0)}{\mathcal{Q}_{\text{self}}} \
+            ds_1 \dots ds_{t-1}
+\end{aligned} 
+\]
+
+Applying the Markov property:
+
+\[
+\begin{aligned}
+    &\rf{p(s_t \mid s_0, o_t, \dots, o_0)}{\mathcal{Q}_{self}} \\
+    &\quad = \int_{\mathcal{S}} \dots \int_{\mathcal{S}} 
+        \bigprod{\tau=1}{t} 
+            \rf{p(s_{\tau} \mid s_{\tau-1}, o_{\tau})}{\mathcal{Q}_{\text{self}}} \
+            ds_1 \dots ds_{t-1}
+\end{aligned}
+\]
+
+
+and then use it to construct our latent estimate $\rf{p(s' \mid o', s)}{\mathcal{Q}_{self}}$ by maximizing $s_t = \rf{p(s_t \mid s_0, o_t, \dots, o_0)}{\mathcal{Q}_{self}}$ based on our subjective experience and the two tautologies it entails, namely, our present existance $s_t = q_{self, t}$ and the Universe in which we exist, and hence its beginning at $s_0 = \mathcal{u}_0$. % TODO: this needs thought. Maybe its the universe since we began
+
+Further, unless we are using this model retrospectively, we must ackowledge the relativity of it all:
+
+\[
+\begin{aligned}
+    &\rf{p(s_t \mid s_0, o_t, \dots, o_0)}{\mathcal{Q}_{self,t}} \\
+    &\quad = \int_{\mathcal{S}_{t-1}} \dots \int_{\mathcal{S}_1} 
+        \bigprod{\tau=1}{t} 
+            \rf{p(s_{\tau} \mid s_{\tau-1}, o_{\tau})}{\mathcal{Q}_{self,\tau}} \
+            ds_1 \dots ds_{t-1}
+\end{aligned}
+\]
+
+which is especially important when considering the objective evolution of one's own existance. As $q_{self} \ne \mathcal{u}_0$ and having already recognized $s_0 = \mathcal{u}_0$, we must acknowledge time $t_{< e}$ before our existance $\rf{q_{self,t_{< e}}}{\mathcal{U}} = 0$, and approaching the present, time $t_e$ when we came into existance $\rf{q_{self,t}}{\mathcal{U}_{t_e}} > 0$ during which time we ascend the gradient of existance $\nabla \rf{q_{self,t}}{\mathcal{U}_{t_e}} > 0$.
+
+\begin{shaded}
+Let us clarify some notation before continuing. First, when a symbolic variable $q$ is used numerically as in the gradient from \ref{eq:ascending-likelihood} we mean to refer to the degree of truthiness / existance it has w.r.t. the innermost reference frame $\mathcal{S}$ taken. The reference frames are a convenience we employ to recognize the system from which a variable is known. By $\rf{q}{\mathcal{S}}$ we mean to say ``The likelihood that some information $q$ exists within the system $\mathcal{S}$''; formally, that $\mathcal{S}$ proves $q$. (The universe $\mathcal{U}$ is always the outmost reference frame, so we typically omit $\rf{\cdot}{\mathcal{U}}$ for clarity.) Finally, we admit a slight abuse of notation using both $q_{\cdot}$ and $\mathcal{Q}_{\cdot}$: generally the lowercase symbols state a value's existance or its value while the caligraphic ones ephasize its members.
+\end{shaded}
+
+chatgpt:
+
+But returning to our main point, the intricate dance between the observer's internal dynamics and the external universe's manifestations offers profound insights into the nature of existence, intelligence, and knowledge acquisition. This interplay, rich in its complexity, can be distilled into several foundational principles that underpin the evolution of cognition and understanding.
+
+**1. Feedback Loop Mechanism:**
+
+Central to the narrative of existence is the cyclical interaction between \( q_{\text{self}} \) and its environment. This is not a mere passive exchange of information; instead, it represents a dynamic feedback mechanism. The external dynamics exert influence upon the internal state of the observer, modifying its perception and understanding, represented by the evolving \( o_t \). However, this altered perception then dictates the manner in which the observer interacts with and perceives subsequent phenomena, effectively altering its interactions with \( \mathcal{Q}_{\text{other}} \). This feedback mechanism ensures a continuous dialogue between the observer and the observed, with each influencing the other in a perpetual dance.
+
+\[
+\rf{p(o_{t+1} \mid s_t, \mathcal{Q}_{\text{other}})}{\mathcal{Q}_{\text{self,t}}}
+\]
+
+**2. Consistency Principle in Information Processing:** 
+
+For meaningful interaction and comprehension of the vast expanse of \( \mathcal{Q}_{\text{other}} \), the observer's internal dynamics must be in resonance with the foundational principles governing the external universe. This isn't an arbitrary alignment but a requisite for coherent perception and action. If \( \mathcal{U} \) operates under a set of axioms or laws \( \mathcal{L} \), then the observer's internal processes must be attuned to these axioms, ensuring a consistent framework for reasoning and understanding.
+
+\[
+\rf{p(o_{t+1} \mid o_t, \mathcal{L})}{\mathcal{Q}_{\text{self,t}}}
+\]
+
+**3. Dynamic Evolution Paradigm:** 
+
+Existence, in its essence, is a dynamic continuum. As the observer assimilates information, refines its understanding, and adapts, its perception of the hidden states \( s \) of the environment undergoes evolution. This adaptability, encapsulated by the time-varying state transition function, ensures that \( q_{\text{self}} \) remains adeptly synchronized with the ever-evolving intricacies of \( \mathcal{Q}_{\text{other}} \).
+
+\[
+\rf{p(o_{t+1} \mid o_t, s_t)}{\mathcal{Q}_{\text{self,t}}}
+\]
+
+**4. Universality of Structural Patterns:** 
+
+Beyond the apparent complexity and diversity, there emerges a realization of profound significance: the internal structures and patterns governing \( q_{\text{self}} \) could be reflections of universal patterns that permeate \( \mathcal{U} \). This deep structural resonance suggests a foundational alignment between microcosmic processes within the observer and the macrocosmic laws governing the universe.
+
+\[
+\rf{\mathcal{P}(o_{t+1} \mid o_t, s_t)}{\mathcal{Q}_{\text{self}}} \approx \rf{\mathcal{P}(s_{t+1} \mid s_t)}{\mathcal{U}}
+\]
+
+**5. Skill vs. Intelligence:** 
+
+In this intricate landscape, two distinct but intertwined facets emerge: skill and intelligence. While skill represents the breadth and depth of one's toolkit of principles, spanning from the universal to the nuanced, intelligence signifies the capacity to abstract, discern, and formulate these master keys from raw experiences. Skill is about the adept application of known principles; intelligence is the meta-process of recognizing patterns, generalizing, and crafting these tools of reasoning.
+
+---
+
+In summation, the symphony between the internal and external dynamics offers not just a philosophical discourse on existence but also a roadmap for understanding cognition, intelligence, and the evolution of knowledge. This framework, steeped in rigor and intricacy, provides a blueprint for both comprehending the nature of sentient existence and probing the frontiers of natural and artificial intelligence.
