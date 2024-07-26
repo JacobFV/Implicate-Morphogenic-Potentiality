@@ -8,6 +8,8 @@ But what if nothingness itself contained the seeds of being? What if, paradoxica
 
 Really, what else does existence even mean? For a thing to exist is for there to be a distinction between what it is and what it is not. TODO: give some simple examples of this. Then discuss how life must continually reassert its own existence by sharpening its definition against the forces of decay. Connect this concept to entropy and self-organization from nonexistence.
 
+GO ON
+
 Other points i want to make:
 
-- 
+This has profound implications for mathematicians and logicians. Because mathematicians and logicians often build their formali systems from arbitrarily chosen rules called "axioms" that attempt to create a logical framework for deriving new statements from known ones. However the choice of axioms is arbitrary and has rightly been criticized for allowing for implicating arbitrary results or even the creation of inconsistent or "paradoxical" systems. But this theory of morphogenic potentiality derives from the most tautologically fundamental foundations possible.

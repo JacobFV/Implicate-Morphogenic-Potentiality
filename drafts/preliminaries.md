@@ -109,121 +109,128 @@ Additional unique concepts from the texts:
 54. Morphic field - A field of information that shapes the form and behavior of organisms and systems.
 
 55. Noetic science - The study of consciousness and its role in the physical world.
+56. Cosmic logos - The underlying rational principle or creative force of the universe.
+57. Pleroma - In Gnostic thought, the spiritual universe as the abode of God and totality of divine powers.
+58. Kenoma - The material world, often seen as a realm of emptiness or deficiency in Gnostic thought.
+59. Anthropic principle - The philosophical consideration that observations of the universe must be compatible with the conscious life that observes it.
+60. Participatory anthropic principle - The idea that observers are necessary to bring the universe into existence.
+61. Bicameral mind - Julian Jaynes' theory of an earlier stage of human consciousness divided into two chambers.
+62. Pleromatica - Relating to the fullness or completeness of divine reality.
+63. Hylic - In Gnosticism, referring to the material or physical realm.
+64. Pneumatic - In Gnosticism, relating to the spiritual or highest level of human nature.
+65. Demiurge - In Platonic and Gnostic thought, a creator deity subordinate to the Supreme Being.
+66. Aeon - In Gnostic thought, an emanation or power proceeding from the ultimate deity.
+67. Archetype - A primordial mental image inherited by all, as proposed by Carl Jung.
+68. Collective unconscious - Jung's concept of a shared, inherited reservoir of experience.
+69. Synchronicity - Meaningful coincidences that defy causal explanation, as described by Jung.
+70. Unus mundus - The Jungian concept of an underlying unified reality.
+71. Anima mundi - The world soul in ancient and medieval philosophy.
+72. Weltanschauung - A comprehensive worldview or philosophy of life.
+73. Zeitgeist - The defining spirit or mood of a particular period in history.
+74. Noocentrism - A philosophy that places primacy on mind and consciousness.
+75. Ontological pluralism - The view that there are multiple, irreducible ways of being.
+76. Cosmogony - A theory or story of the origin and development of the universe.
+77. Eschatology - The part of theology concerned with death, judgment, and final destiny.
+78. Teleology - The explanation of phenomena in terms of their purpose or end goal.
+79. Theodicy - The vindication of divine goodness in view of the existence of evil.
+80. Gnosis - Esoteric knowledge of spiritual truth held by ancient Gnostics to be essential to salvation.
+81. Noumenon - In Kantian philosophy, a thing as it is in itself, independent of perception.
+82. Phenomenon - In Kantian philosophy, an object as it appears to an observer.
+83. Epoché - The suspension of judgment about the true nature of reality.
+84. Qualia - Individual instances of subjective, conscious experience.
+85. Umwelt - The world as it is experienced by a particular organism.
+86. Dasein - In Heideggerian philosophy, human existence or being-in-the-world.
+87. Aletheia - Truth as unconcealment or disclosure in Heideggerian philosophy.
+88. Pharmakon - In Derridean philosophy, something that is both poison and cure.
+89. Différance - Derrida's concept of the deferral of meaning in language.
+90. Rhizome - Deleuze and Guattari's model of theory and research based on horizontal, non-hierarchical connections.
+91. Deterritorialization - The severance of social, political, or cultural practices from their native places and populations.
+92. Nomadology - Deleuze and Guattari's philosophical concept emphasizing movement and becoming over fixed identities.
+93. Hauntology - Derrida's concept of the persistent influence of the past on the present.
+94. Simulacrum - Baudrillard's concept of a copy without an original.
+95. Hyperreality - Baudrillard's term for the inability to distinguish reality from simulation.
+96. Heterotopia - Foucault's concept of spaces that are simultaneously physical and mental.
+97. Biopolitics - Foucault's concept of political power exercised over human life.
+98. Episteme - In Foucault's work, the historical a priori that grounds knowledge and its discourses.
+99. Différend - Lyotard's term for an irresolvable conflict between two parties due to lack of a common rule of judgment.
+100. Metanarrative - Lyotard's term for a grand narrative that claims to explain various historical events, experiences, and social phenomena.
+101. Écriture féminine - Hélène Cixous' concept of women's writing that inscribes femininity.
+102. Chora - Julia Kristeva's concept of a pre-linguistic, womb-like state.
+103. Abjection - Kristeva's concept of the human reaction to a threatened breakdown in meaning caused by the loss of distinction between subject and object.
+104. Singularity - A point at which a function takes an infinite value, often used in discussions of technological acceleration.
+105. Technium - Kevin Kelly's term for the global, massively interconnected system of technology.
+106. Noetic science - The study of consciousness and its role in the physical world.
+107. Morphic field - A field of information that shapes the form and behavior of organisms and systems.
+108. Holographic universe - The idea that the universe is structured like a hologram.
+109. Bardo - In Tibetan Buddhism, the intermediate state between death and rebirth.
+110. Sunyata - The Buddhist concept of emptiness or voidness.
+111. Tao - In Chinese philosophy, the fundamental nature of the universe.
+112. Brahman - In Hinduism, the ultimate reality underlying all phenomena.
+113. Maya - In Indian philosophy, the illusion or appearance of the phenomenal world.
+114. Atman - In Hinduism, the true self or essence of an individual.
+115. Monad - In Leibniz's philosophy, the fundamental substance of the universe.
+116. Entelechy - In Aristotelian philosophy, the actualization of potential.
+117. Phusis - In Greek philosophy, the principle of growth or nature.
+118. Logos - In Greek philosophy, the rational principle of the universe.
+119. Nous - In Greek philosophy, the faculty of intellectual apprehension.
+120. Apeiron - In Greek philosophy, the boundless or infinite.
+121. Archē - In Greek philosophy, the primal element or first principle.
+122. Eudaimonia - In Greek ethics, the state of human flourishing.
+123. Arete - In Greek philosophy, excellence or virtue.
+124. Kairos - The opportune moment or "right time" in Greek rhetoric.
+125. Chronos - Sequential or chronological time, as opposed to kairos.
+126. Aletheia - Truth as unconcealment in Greek philosophy.
+127. Anamnesis - Plato's theory of recollection or remembering.
+128. Methexis - In Platonic philosophy, participation of the particular in the universal.
+129. Parousia - Presence, arrival, or second coming in Christian theology.
+130. Phronesis - In Aristotelian ethics, practical wisdom or prudence.
+131. Apokatastasis - The restoration of all things in Christian eschatology.
+132. Kenosis - In Christian theology, the self-emptying of Christ's divine nature.
+133. Theosis - In Eastern Christian theology, the transforming effect of divine grace.
+134. Shekinah - In Judaism, the dwelling or settling of the divine presence.
+135. Tikkun olam - In Judaism, the concept of repairing or perfecting the world.
+136. Gaia hypothesis - The theory that living organisms interact with their inorganic surroundings to form 
+a self-regulating system.
+137. Anthropocene - The current geological age, viewed as the period during which human activity has been 
+the dominant influence on climate and the environment.
+138. Noetic ecology - The study of the relationship between consciousness and the environment.
+139. Technogaianism - A bright green environmentalist stance of active support for the research, 
+development and use of emerging and future technologies to help restore Earth's environment.
+140. Abiogenesis - The original evolution of life from inorganic or inanimate substances.
+141. Panspermia - The hypothesis that life exists throughout the Universe, distributed by space dust, 
+meteoroids, asteroids, comets, and planetoids.
+142. Exo-consciousness - The idea of consciousness existing beyond Earth.
+143. Xenobiology - The study of life forms of non-terrestrial origin.
+144. Cosmobiological evolution - The study of the evolution of life in a cosmic context.
+145. Negentropic force - A hypothetical force that counteracts entropy and promotes order.
+146. Biocosmic energy - A proposed form of energy that connects all living things in the cosmos.
+147. Cosmic imperative - The idea that the universe is compelled towards certain outcomes, such as the 
+development of life and consciousness.
+148. Noetic universe - A universe in which mind or consciousness plays a fundamental role.
+149. Psychozoic era - A hypothetical future era dominated by mind and consciousness.
+150. Syntropy - A hypothetical tendency towards increasing order and organization in the universe.
+151. Cosmopsychism - The view that the cosmos as a whole is the fundamental bearer of consciousness.
+152. Palingenesis - Rebirth or recreation on a higher level of existence.
+153. Anabiosis - The return to life after apparent death, or a period of inactivity.
+154. Numinous - Having a strong religious or spiritual quality; indicating or suggesting the presence of a 
+divinity.
+155. Pleroma - In Gnostic thought, the spiritual universe as the abode of God and totality of divine 
+powers.
 
-1. Cosmic logos - The underlying rational principle or creative force of the universe.
-2. Pleroma - In Gnostic thought, the spiritual universe as the abode of God and totality of divine powers.
-3. Kenoma - The material world, often seen as a realm of emptiness or deficiency in Gnostic thought.
-4. Anthropic principle - The philosophical consideration that observations of the universe must be compatible with the conscious life that observes it.
-5. Participatory anthropic principle - The idea that observers are necessary to bring the universe into existence.
-6. Bicameral mind - Julian Jaynes' theory of an earlier stage of human consciousness divided into two chambers.
-7. Pleromatica - Relating to the fullness or completeness of divine reality.
-8. Hylic - In Gnosticism, referring to the material or physical realm.
-9. Pneumatic - In Gnosticism, relating to the spiritual or highest level of human nature.
-10. Demiurge - In Platonic and Gnostic thought, a creator deity subordinate to the Supreme Being.
-11. Aeon - In Gnostic thought, an emanation or power proceeding from the ultimate deity.
-12. Archetype - A primordial mental image inherited by all, as proposed by Carl Jung.
-13. Collective unconscious - Jung's concept of a shared, inherited reservoir of experience.
-14. Synchronicity - Meaningful coincidences that defy causal explanation, as described by Jung.
-15. Unus mundus - The Jungian concept of an underlying unified reality.
-16. Anima mundi - The world soul in ancient and medieval philosophy.
-17. Weltanschauung - A comprehensive worldview or philosophy of life.
-18. Zeitgeist - The defining spirit or mood of a particular period in history.
-19. Noocentrism - A philosophy that places primacy on mind and consciousness.
-20. Ontological pluralism - The view that there are multiple, irreducible ways of being.
-21. Cosmogony - A theory or story of the origin and development of the universe.
-22. Eschatology - The part of theology concerned with death, judgment, and final destiny.
-23. Teleology - The explanation of phenomena in terms of their purpose or end goal.
-24. Theodicy - The vindication of divine goodness in view of the existence of evil.
-25. Gnosis - Esoteric knowledge of spiritual truth held by ancient Gnostics to be essential to salvation.
-26. Noumenon - In Kantian philosophy, a thing as it is in itself, independent of perception.
-27. Phenomenon - In Kantian philosophy, an object as it appears to an observer.
-28. Epoché - The suspension of judgment about the true nature of reality.
-29. Qualia - Individual instances of subjective, conscious experience.
-30. Umwelt - The world as it is experienced by a particular organism.
-31. Dasein - In Heideggerian philosophy, human existence or being-in-the-world.
-32. Aletheia - Truth as unconcealment or disclosure in Heideggerian philosophy.
-33. Pharmakon - In Derridean philosophy, something that is both poison and cure.
-34. Différance - Derrida's concept of the deferral of meaning in language.
-35. Rhizome - Deleuze and Guattari's model of theory and research based on horizontal, non-hierarchical connections.
-36. Deterritorialization - The severance of social, political, or cultural practices from their native places and populations.
-37. Nomadology - Deleuze and Guattari's philosophical concept emphasizing movement and becoming over fixed identities.
-38. Hauntology - Derrida's concept of the persistent influence of the past on the present.
-39. Simulacrum - Baudrillard's concept of a copy without an original.
-40. Hyperreality - Baudrillard's term for the inability to distinguish reality from simulation.
-41. Heterotopia - Foucault's concept of spaces that are simultaneously physical and mental.
-42. Biopolitics - Foucault's concept of political power exercised over human life.
-43. Episteme - In Foucault's work, the historical a priori that grounds knowledge and its discourses.
-44. Différend - Lyotard's term for an irresolvable conflict between two parties due to lack of a common rule of judgment.
-45. Metanarrative - Lyotard's term for a grand narrative that claims to explain various historical events, experiences, and social phenomena.
-46. Écriture féminine - Hélène Cixous' concept of women's writing that inscribes femininity.
-47. Chora - Julia Kristeva's concept of a pre-linguistic, womb-like state.
-48. Abjection - Kristeva's concept of the human reaction to a threatened breakdown in meaning caused by the loss of distinction between subject and object.
-49. Singularity - A point at which a function takes an infinite value, often used in discussions of technological acceleration.
-50. Technium - Kevin Kelly's term for the global, massively interconnected system of technology.
-51. Noetic science - The study of consciousness and its role in the physical world.
-52. Morphic field - A field of information that shapes the form and behavior of organisms and systems.
-53. Holographic universe - The idea that the universe is structured like a hologram.
-54. Bardo - In Tibetan Buddhism, the intermediate state between death and rebirth.
-55. Sunyata - The Buddhist concept of emptiness or voidness.
-56. Tao - In Chinese philosophy, the fundamental nature of the universe.
-57. Brahman - In Hinduism, the ultimate reality underlying all phenomena.
-58. Maya - In Indian philosophy, the illusion or appearance of the phenomenal world.
-59. Atman - In Hinduism, the true self or essence of an individual.
-60. Monad - In Leibniz's philosophy, the fundamental substance of the universe.
-61. Entelechy - In Aristotelian philosophy, the actualization of potential.
-62. Phusis - In Greek philosophy, the principle of growth or nature.
-63. Logos - In Greek philosophy, the rational principle of the universe.
-64. Nous - In Greek philosophy, the faculty of intellectual apprehension.
-65. Apeiron - In Greek philosophy, the boundless or infinite.
-66. Archē - In Greek philosophy, the primal element or first principle.
-67. Phronesis - In Aristotelian ethics, practical wisdom or prudence.
-68. Eudaimonia - In Greek ethics, the state of human flourishing.
-69. Arete - In Greek philosophy, excellence or virtue.
-70. Kairos - The opportune moment or "right time" in Greek rhetoric.
-71. Chronos - Sequential or chronological time, as opposed to kairos.
-72. Aletheia - Truth as unconcealment in Greek philosophy.
-73. Anamnesis - Plato's theory of recollection or remembering.
-74. Methexis - In Platonic philosophy, participation of the particular in the universal.
-75. Parousia - Presence, arrival, or second coming in Christian theology.
-76. Apokatastasis - The restoration of all things in Christian eschatology.
-77. Kenosis - In Christian theology, the self-emptying of Christ's divine nature.
-78. Theosis - In Eastern Christian theology, the transforming effect of divine grace.
-79. Shekinah - In Judaism, the dwelling or settling of the divine presence.
-80. Tikkun olam - In Judaism, the concept of repairing or perfecting the world.
-81. Gaia hypothesis - The theory that living organisms interact with their inorganic surroundings to form a self-regulating system.
-82. Anthropocene - The current geological age, viewed as the period during which human activity has been the dominant influence on climate and the environment.
-83. Noetic ecology - The study of the relationship between consciousness and the environment.
-84. Technogaianism - A bright green environmentalist stance of active support for the research, development and use of emerging and future technologies to help restore Earth's environment.
-85. Xenobiology - The study of life forms of non-terrestrial origin.
-86. Abiogenesis - The original evolution of life from inorganic or inanimate substances.
-87. Panspermia - The hypothesis that life exists throughout the Universe, distributed by space dust, meteoroids, asteroids, comets, and planetoids.
-88. Exo-consciousness - The idea of consciousness existing beyond Earth.
-89. Cosmobiological evolution - The study of the evolution of life in a cosmic context.
-90. Negentropic force - A hypothetical force that counteracts entropy and promotes order.
-91. Syntropy - A hypothetical tendency towards increasing order and organization in the universe.
-92. Biocosmic energy - A proposed form of energy that connects all living things in the cosmos.
-93. Cosmic imperative - The idea that the universe is compelled towards certain outcomes, such as the development of life and consciousness.
-94. Noetic universe - A universe in which mind or consciousness plays a fundamental role.
-95. Psychozoic era - A hypothetical future era dominated by mind and consciousness.
-96. Cosmopsychism - The view that the cosmos as a whole is the fundamental bearer of consciousness.
-97. Palingenesis - Rebirth or recreation on a higher level of existence.
-98. Anabiosis - The return to life after apparent death, or a period of inactivity.
-99. Numinous - Having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity.
-100. Pleroma - In Gnostic thought, the spiritual universe as the abode of God and totality of divine powers.
 
-1. Anamorphosis - A distorted projection or perspective requiring the viewer to use special devices or occupy a specific vantage point to reconstitute the image.
+156. Anamorphosis - A distorted projection or perspective requiring the viewer to use special devices or occupy a specific vantage point to reconstitute the image.
 
-2. Apocatastasis - The restoration of the original unity with God, a form of universal salvation.
+157. Apocatastasis - The restoration of the original unity with God, a form of universal salvation.
 
-3. Autogenesis - The hypothesis that life can arise spontaneously from non-living matter.
 
-4. Biophilia hypothesis - The idea that humans possess an innate tendency to seek connections with nature and other forms of life.
+158. Biophilia hypothesis - The idea that humans possess an innate tendency to seek connections with nature and other forms of life.
 
-5. Chthonic - Relating to or inhabiting the underworld.
+159. Chthonic - Relating to or inhabiting the underworld.
 
 6. Cosmogonic cycles - Recurring patterns of creation, destruction, and rebirth in the universe.
 
 7. Cryptozoology - The search for and study of animals whose existence or survival is disputed or unsubstantiated.
+3. Autogenesis - The hypothesis that life can arise spontaneously from non-living matter.
 
 8. Cymatics - The study of visible sound and vibration.
 
