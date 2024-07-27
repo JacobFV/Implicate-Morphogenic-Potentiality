@@ -4,13 +4,24 @@ From the depths of nothingness, a spark ignites. In the vast emptiness of non-be
 
 The notion of absolute nothingness - a void devoid of space, time, energy, and information - seems to preclude the possibility of anything coming into existence. And yet, here we are, inhabitants of a rich and complex universe teeming with matter, energy, information, and conscious experience. Our very existence seems to defy the axiom that out of nothing, nothing comes.
 
-But what if nothingness itself contained the seeds of being? What if, paradoxically, absolute emptiness was pregnant with infinite potential? What if actual nothingness itself never really existed? To explore this mind-bending possibility, we must venture beyond our everyday intuitions and linear logic. We must peer into the nature of reality at its most fundamental level, at the boundary between existence and non-existence.
+But what if nothingness itself contained the seeds of being? What if, paradoxically, absolute emptiness was pregnant with infinite potential? What if actual nothingness itself never really existed? To explore this mind-bending possibility, we must venture beyond our everyday intuitions and linear logic where the law of excluded middle no longer applies. We must peer into the nature of reality at its most fundamental level, at the boundary between existence and non-existence.
 
-Peer into the depths and see an endless darkness that spans every and no direction; formless, featureless, grey nothingness no matter the direction. Formalizations cannot *contain* it, for to even declare the empty set $\emptyset$ is still to declare that *something* exists. On the other hand, we can formally *describe* it in the limit of past. Descending the dimensions towards $S_0$, we approach a contradictory 'space' ($S_0$) of emptiness $[x \notin S_0](\forall x)$ without distance $(\forall x_i, x_j \in S^2)[d(x_i, x_j)=0]$ or curvature $(\forall x_i, x_j, x_k \in S^3)[R(x_i, x_j, x_k) = 0]$. The implicate geometry is a fully connected graph: every point connected to every other point. In the language of thermodynamics, this state of maximal connectivity represents a state of maximum (graph-theoretic) entropy. Yet paradoxically, the absolute nothingness also represents a state of minimum entropy, where no distinct microstates are realized. This can be expressed as:
+Peer into the depths and see an endless darkness that spans every and no direction; formless, featureless, grey nothingness no matter the direction. Formalizations cannot *contain* it, for to even declare the empty set $\emptyset$ is still to declare a mathematical object that does exist. On the other hand, we can formally *describe* it in the limit of past. Descending the dimensions towards $S_0$, we approach a contradictory 'space' ($S_{\Alpha}$) of emptiness $[x \notin S_0](\forall x)$ without distance $(\forall x_i, x_j \in S^2)[d(x_i, x_j)=0]$ or curvature $(\forall x_i, x_j, x_k \in S^3)[R(x_i, x_j, x_k) = 0]$. The implicate geometry is a fully connected graph: every point connected to every other point. In the language of thermodynamics, this state of maximal connectivity represents a state of maximum (graph-theoretic) entropy. Yet paradoxically, the absolute nothingness also represents a state of minimum entropy, where no distinct microstates are realized. In matrix form:
 
-$S(\Omega) = S_{\text{max}} \equiv S_{\text{min}}$
+\begin{equation}
+d_{\Alpha} = \begin{bmatrix}
+    \ddots & \vdots & \vdots & \vdots & \vdots & \ddots \\
+    \cdots & 1 & 1 & 1 & 1 & \cdots \\
+    \cdots & 1 & 1 & 1 & 1 & \cdots \\
+    \cdots & 1 & 1 & 1 & 1 & \cdots \\
+    \cdots & 1 & 1 & 1 & 1 & \cdots \\
+    \ddots & \vdots & \vdots & \vdots & \vdots & \ddots
+\end{bmatrix}
+\end{equation}
 
-Where $S(\Omega)$ is the entropy of the state of absolute nothingness.
+$S(\Alpha) = S_{\text{max}} \equiv S_{\text{min}}$
+
+Where $S(\Alpha)$ is the entropy of the state of absolute nothingness.
 
 ## Quantum Vacuum and Implicate Order
 
